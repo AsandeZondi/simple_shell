@@ -1,1 +1,1 @@
-simpleshell
+simple-shell
